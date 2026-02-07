@@ -1,0 +1,1893 @@
+{
+    "segments": [
+        {
+            "start": 7.997,
+            "end": 27.202,
+            "text": " 30.12.2025 der Briefgebiete an die Onkologische Tagesklinik hier im Haus, an Herrn Dietrich Gläser, beziehungsweise die Oberärztin Peters, sowie an Hausarzt Diplomate Koch, Frau Dagmar Koch in Rostock.",
+            "words": [
+                {
+                    "word": "30.12.2025"
+                },
+                {
+                    "word": "der",
+                    "start": 8.117,
+                    "end": 8.197,
+                    "score": 0.037
+                },
+                {
+                    "word": "Briefgebiete",
+                    "start": 8.217,
+                    "end": 11.198,
+                    "score": 0.626
+                },
+                {
+                    "word": "an",
+                    "start": 11.258,
+                    "end": 11.438,
+                    "score": 0.891
+                },
+                {
+                    "word": "die",
+                    "start": 11.458,
+                    "end": 12.418,
+                    "score": 0.985
+                },
+                {
+                    "word": "Onkologische",
+                    "start": 12.458,
+                    "end": 12.978,
+                    "score": 0.521
+                },
+                {
+                    "word": "Tagesklinik",
+                    "start": 13.018,
+                    "end": 13.919,
+                    "score": 0.58
+                },
+                {
+                    "word": "hier",
+                    "start": 13.959,
+                    "end": 14.059,
+                    "score": 0.821
+                },
+                {
+                    "word": "im",
+                    "start": 14.099,
+                    "end": 14.219,
+                    "score": 0.78
+                },
+                {
+                    "word": "Haus,",
+                    "start": 14.239,
+                    "end": 15.579,
+                    "score": 0.827
+                },
+                {
+                    "word": "an",
+                    "start": 15.659,
+                    "end": 17.3,
+                    "score": 0.899
+                },
+                {
+                    "word": "Herrn",
+                    "start": 17.34,
+                    "end": 17.78,
+                    "score": 0.447
+                },
+                {
+                    "word": "Dietrich",
+                    "start": 17.8,
+                    "end": 18.22,
+                    "score": 0.648
+                },
+                {
+                    "word": "Gläser,",
+                    "start": 18.26,
+                    "end": 18.72,
+                    "score": 0.806
+                },
+                {
+                    "word": "beziehungsweise",
+                    "start": 18.74,
+                    "end": 19.32,
+                    "score": 0.874
+                },
+                {
+                    "word": "die",
+                    "start": 19.36,
+                    "end": 19.52,
+                    "score": 0.672
+                },
+                {
+                    "word": "Oberärztin",
+                    "start": 19.58,
+                    "end": 20.06,
+                    "score": 0.524
+                },
+                {
+                    "word": "Peters,",
+                    "start": 20.1,
+                    "end": 21.421,
+                    "score": 0.861
+                },
+                {
+                    "word": "sowie",
+                    "start": 21.461,
+                    "end": 21.861,
+                    "score": 0.932
+                },
+                {
+                    "word": "an",
+                    "start": 21.901,
+                    "end": 22.061,
+                    "score": 0.786
+                },
+                {
+                    "word": "Hausarzt",
+                    "start": 22.081,
+                    "end": 22.621,
+                    "score": 0.644
+                },
+                {
+                    "word": "Diplomate",
+                    "start": 22.661,
+                    "end": 23.641,
+                    "score": 0.614
+                },
+                {
+                    "word": "Koch,",
+                    "start": 23.681,
+                    "end": 24.902,
+                    "score": 0.894
+                },
+                {
+                    "word": "Frau",
+                    "start": 24.922,
+                    "end": 25.082,
+                    "score": 0.187
+                },
+                {
+                    "word": "Dagmar",
+                    "start": 25.122,
+                    "end": 25.542,
+                    "score": 0.616
+                },
+                {
+                    "word": "Koch",
+                    "start": 25.582,
+                    "end": 25.762,
+                    "score": 0.495
+                },
+                {
+                    "word": "in",
+                    "start": 25.842,
+                    "end": 25.962,
+                    "score": 0.611
+                },
+                {
+                    "word": "Rostock.",
+                    "start": 26.002,
+                    "end": 27.202,
+                    "score": 0.839
+                }
+            ]
+        },
+        {
+            "start": 27.222,
+            "end": 36.845,
+            "text": "Diagnosen, progrediente Fraktur des BWK 12, Klammer auf, Verdacht auf pathologisch, Klammer zu, bei",
+            "words": [
+                {
+                    "word": "Diagnosen,",
+                    "start": 27.222,
+                    "end": 29.643,
+                    "score": 0.75
+                },
+                {
+                    "word": "progrediente",
+                    "start": 29.683,
+                    "end": 32.024,
+                    "score": 0.685
+                },
+                {
+                    "word": "Fraktur",
+                    "start": 32.064,
+                    "end": 32.484,
+                    "score": 0.903
+                },
+                {
+                    "word": "des",
+                    "start": 32.524,
+                    "end": 32.864,
+                    "score": 0.971
+                },
+                {
+                    "word": "BWK",
+                    "start": 32.904,
+                    "end": 33.764,
+                    "score": 0.754
+                },
+                {
+                    "word": "12,"
+                },
+                {
+                    "word": "Klammer",
+                    "start": 33.804,
+                    "end": 34.064,
+                    "score": 0.376
+                },
+                {
+                    "word": "auf,",
+                    "start": 34.084,
+                    "end": 34.224,
+                    "score": 0.431
+                },
+                {
+                    "word": "Verdacht",
+                    "start": 34.244,
+                    "end": 34.544,
+                    "score": 0.892
+                },
+                {
+                    "word": "auf",
+                    "start": 34.584,
+                    "end": 34.844,
+                    "score": 0.952
+                },
+                {
+                    "word": "pathologisch,",
+                    "start": 34.884,
+                    "end": 35.525,
+                    "score": 0.788
+                },
+                {
+                    "word": "Klammer",
+                    "start": 35.565,
+                    "end": 35.865,
+                    "score": 0.705
+                },
+                {
+                    "word": "zu,",
+                    "start": 35.905,
+                    "end": 36.025,
+                    "score": 0.911
+                },
+                {
+                    "word": "bei",
+                    "start": 36.725,
+                    "end": 36.845,
+                    "score": 0.625
+                }
+            ]
+        },
+        {
+            "start": 37.778,
+            "end": 43.403,
+            "text": " Erstdiagnose eines multiplen Myeloms vom Subtyp Leichtkette Kappa.",
+            "words": [
+                {
+                    "word": "Erstdiagnose",
+                    "start": 37.778,
+                    "end": 38.419,
+                    "score": 0.699
+                },
+                {
+                    "word": "eines",
+                    "start": 38.459,
+                    "end": 38.699,
+                    "score": 0.672
+                },
+                {
+                    "word": "multiplen",
+                    "start": 38.739,
+                    "end": 39.299,
+                    "score": 0.715
+                },
+                {
+                    "word": "Myeloms",
+                    "start": 39.339,
+                    "end": 40.14,
+                    "score": 0.643
+                },
+                {
+                    "word": "vom",
+                    "start": 40.18,
+                    "end": 40.58,
+                    "score": 0.73
+                },
+                {
+                    "word": "Subtyp",
+                    "start": 40.62,
+                    "end": 41.381,
+                    "score": 0.87
+                },
+                {
+                    "word": "Leichtkette",
+                    "start": 41.441,
+                    "end": 42.102,
+                    "score": 0.908
+                },
+                {
+                    "word": "Kappa.",
+                    "start": 42.142,
+                    "end": 43.403,
+                    "score": 0.79
+                }
+            ]
+        },
+        {
+            "start": 43.443,
+            "end": 45.184,
+            "text": "Absatz 9 Zeile.",
+            "words": [
+                {
+                    "word": "Absatz",
+                    "start": 43.443,
+                    "end": 43.883,
+                    "score": 0.579
+                },
+                {
+                    "word": "9"
+                },
+                {
+                    "word": "Zeile.",
+                    "start": 44.243,
+                    "end": 45.184,
+                    "score": 0.884
+                }
+            ]
+        },
+        {
+            "start": 45.224,
+            "end": 48.567,
+            "text": "Herr Kiele klagt über seit ca.",
+            "words": [
+                {
+                    "word": "Herr",
+                    "start": 45.224,
+                    "end": 45.444,
+                    "score": 0.456
+                },
+                {
+                    "word": "Kiele",
+                    "start": 45.484,
+                    "end": 46.245,
+                    "score": 0.858
+                },
+                {
+                    "word": "klagt",
+                    "start": 46.305,
+                    "end": 46.885,
+                    "score": 0.922
+                },
+                {
+                    "word": "über",
+                    "start": 46.965,
+                    "end": 47.326,
+                    "score": 0.73
+                },
+                {
+                    "word": "seit",
+                    "start": 47.366,
+                    "end": 47.966,
+                    "score": 0.966
+                },
+                {
+                    "word": "ca.",
+                    "start": 48.006,
+                    "end": 48.567,
+                    "score": 0.705
+                }
+            ]
+        },
+        {
+            "start": 48.587,
+            "end": 53.35,
+            "text": "8 Wochen bestehende Schmerzen im Bereich der LWS.",
+            "words": [
+                {
+                    "word": "8"
+                },
+                {
+                    "word": "Wochen",
+                    "start": 48.607,
+                    "end": 48.847,
+                    "score": 0.821
+                },
+                {
+                    "word": "bestehende",
+                    "start": 48.867,
+                    "end": 49.307,
+                    "score": 0.9
+                },
+                {
+                    "word": "Schmerzen",
+                    "start": 49.347,
+                    "end": 49.888,
+                    "score": 0.828
+                },
+                {
+                    "word": "im",
+                    "start": 49.948,
+                    "end": 50.088,
+                    "score": 0.97
+                },
+                {
+                    "word": "Bereich",
+                    "start": 50.128,
+                    "end": 51.149,
+                    "score": 0.888
+                },
+                {
+                    "word": "der",
+                    "start": 51.209,
+                    "end": 51.549,
+                    "score": 0.983
+                },
+                {
+                    "word": "LWS.",
+                    "start": 51.669,
+                    "end": 53.35,
+                    "score": 0.925
+                }
+            ]
+        },
+        {
+            "start": 53.41,
+            "end": 56.012,
+            "text": "Es wird zwar ein Sturzereignis ca.",
+            "words": [
+                {
+                    "word": "Es",
+                    "start": 53.41,
+                    "end": 53.55,
+                    "score": 0.721
+                },
+                {
+                    "word": "wird",
+                    "start": 53.59,
+                    "end": 53.771,
+                    "score": 0.827
+                },
+                {
+                    "word": "zwar",
+                    "start": 53.811,
+                    "end": 53.991,
+                    "score": 0.74
+                },
+                {
+                    "word": "ein",
+                    "start": 54.011,
+                    "end": 54.331,
+                    "score": 0.444
+                },
+                {
+                    "word": "Sturzereignis",
+                    "start": 54.351,
+                    "end": 55.412,
+                    "score": 0.651
+                },
+                {
+                    "word": "ca.",
+                    "start": 55.852,
+                    "end": 56.012,
+                    "score": 0.715
+                }
+            ]
+        },
+        {
+            "start": 56.052,
+            "end": 62.918,
+            "text": "im November erinnert, jedoch ging dies nicht mit vermehrten Schmerzen im Bereich der BWS oder LWS einher.",
+            "words": [
+                {
+                    "word": "im",
+                    "start": 56.052,
+                    "end": 56.212,
+                    "score": 0.655
+                },
+                {
+                    "word": "November",
+                    "start": 56.232,
+                    "end": 56.773,
+                    "score": 0.506
+                },
+                {
+                    "word": "erinnert,",
+                    "start": 56.793,
+                    "end": 57.253,
+                    "score": 0.859
+                },
+                {
+                    "word": "jedoch",
+                    "start": 57.273,
+                    "end": 57.714,
+                    "score": 0.767
+                },
+                {
+                    "word": "ging",
+                    "start": 57.734,
+                    "end": 57.934,
+                    "score": 0.746
+                },
+                {
+                    "word": "dies",
+                    "start": 57.974,
+                    "end": 58.174,
+                    "score": 0.586
+                },
+                {
+                    "word": "nicht",
+                    "start": 58.214,
+                    "end": 58.374,
+                    "score": 0.879
+                },
+                {
+                    "word": "mit",
+                    "start": 58.414,
+                    "end": 58.634,
+                    "score": 0.777
+                },
+                {
+                    "word": "vermehrten",
+                    "start": 58.674,
+                    "end": 59.055,
+                    "score": 0.622
+                },
+                {
+                    "word": "Schmerzen",
+                    "start": 59.095,
+                    "end": 59.595,
+                    "score": 0.77
+                },
+                {
+                    "word": "im",
+                    "start": 59.655,
+                    "end": 59.795,
+                    "score": 0.776
+                },
+                {
+                    "word": "Bereich",
+                    "start": 59.835,
+                    "end": 60.676,
+                    "score": 0.856
+                },
+                {
+                    "word": "der",
+                    "start": 60.696,
+                    "end": 60.876,
+                    "score": 0.841
+                },
+                {
+                    "word": "BWS",
+                    "start": 60.916,
+                    "end": 61.316,
+                    "score": 0.953
+                },
+                {
+                    "word": "oder",
+                    "start": 61.356,
+                    "end": 61.577,
+                    "score": 0.732
+                },
+                {
+                    "word": "LWS",
+                    "start": 61.677,
+                    "end": 62.077,
+                    "score": 0.904
+                },
+                {
+                    "word": "einher.",
+                    "start": 62.117,
+                    "end": 62.918,
+                    "score": 0.859
+                }
+            ]
+        },
+        {
+            "start": 62.958,
+            "end": 63.118,
+            "text": "Punkt.",
+            "words": [
+                {
+                    "word": "Punkt.",
+                    "start": 62.958,
+                    "end": 63.118,
+                    "score": 0.924
+                }
+            ]
+        },
+        {
+            "start": 65.56,
+            "end": 74.803,
+            "text": " Aktuell bestehen Schmerzen vor allem im Bereich des Beckenkammes beidseits, im Bereich des muskulären Ansatzes, des Erektrospinäen.",
+            "words": [
+                {
+                    "word": "Aktuell",
+                    "start": 65.56,
+                    "end": 66.08,
+                    "score": 0.721
+                },
+                {
+                    "word": "bestehen",
+                    "start": 66.12,
+                    "end": 66.54,
+                    "score": 0.798
+                },
+                {
+                    "word": "Schmerzen",
+                    "start": 66.56,
+                    "end": 67.02,
+                    "score": 0.811
+                },
+                {
+                    "word": "vor",
+                    "start": 67.06,
+                    "end": 67.141,
+                    "score": 0.864
+                },
+                {
+                    "word": "allem",
+                    "start": 67.181,
+                    "end": 67.541,
+                    "score": 0.828
+                },
+                {
+                    "word": "im",
+                    "start": 67.581,
+                    "end": 67.781,
+                    "score": 0.89
+                },
+                {
+                    "word": "Bereich",
+                    "start": 67.801,
+                    "end": 68.201,
+                    "score": 0.915
+                },
+                {
+                    "word": "des",
+                    "start": 68.241,
+                    "end": 68.821,
+                    "score": 0.802
+                },
+                {
+                    "word": "Beckenkammes",
+                    "start": 68.861,
+                    "end": 69.501,
+                    "score": 0.711
+                },
+                {
+                    "word": "beidseits,",
+                    "start": 69.541,
+                    "end": 70.221,
+                    "score": 0.735
+                },
+                {
+                    "word": "im",
+                    "start": 70.281,
+                    "end": 71.142,
+                    "score": 0.911
+                },
+                {
+                    "word": "Bereich",
+                    "start": 71.162,
+                    "end": 71.362,
+                    "score": 0.829
+                },
+                {
+                    "word": "des",
+                    "start": 71.402,
+                    "end": 71.502,
+                    "score": 0.404
+                },
+                {
+                    "word": "muskulären",
+                    "start": 71.522,
+                    "end": 72.062,
+                    "score": 0.565
+                },
+                {
+                    "word": "Ansatzes,",
+                    "start": 72.102,
+                    "end": 72.522,
+                    "score": 0.833
+                },
+                {
+                    "word": "des",
+                    "start": 72.542,
+                    "end": 72.762,
+                    "score": 0.936
+                },
+                {
+                    "word": "Erektrospinäen.",
+                    "start": 72.822,
+                    "end": 74.803,
+                    "score": 0.636
+                }
+            ]
+        },
+        {
+            "start": 74.863,
+            "end": 86.766,
+            "text": "Im Bereich des trocholombalen Überganges werden keine Schmerzen angegeben und auch beim Klopfen, Husten oder Pressen kann hier keine Schmerzprovokation erzielt werden.",
+            "words": [
+                {
+                    "word": "Im",
+                    "start": 74.863,
+                    "end": 74.943,
+                    "score": 0.922
+                },
+                {
+                    "word": "Bereich",
+                    "start": 74.963,
+                    "end": 75.203,
+                    "score": 0.915
+                },
+                {
+                    "word": "des",
+                    "start": 75.223,
+                    "end": 75.363,
+                    "score": 0.8
+                },
+                {
+                    "word": "trocholombalen",
+                    "start": 75.423,
+                    "end": 76.103,
+                    "score": 0.523
+                },
+                {
+                    "word": "Überganges",
+                    "start": 76.143,
+                    "end": 76.583,
+                    "score": 0.784
+                },
+                {
+                    "word": "werden",
+                    "start": 76.603,
+                    "end": 76.883,
+                    "score": 0.783
+                },
+                {
+                    "word": "keine",
+                    "start": 76.903,
+                    "end": 77.103,
+                    "score": 0.779
+                },
+                {
+                    "word": "Schmerzen",
+                    "start": 77.123,
+                    "end": 77.523,
+                    "score": 0.801
+                },
+                {
+                    "word": "angegeben",
+                    "start": 77.563,
+                    "end": 78.064,
+                    "score": 0.896
+                },
+                {
+                    "word": "und",
+                    "start": 78.104,
+                    "end": 78.264,
+                    "score": 0.896
+                },
+                {
+                    "word": "auch",
+                    "start": 78.284,
+                    "end": 78.444,
+                    "score": 0.776
+                },
+                {
+                    "word": "beim",
+                    "start": 78.464,
+                    "end": 78.744,
+                    "score": 0.509
+                },
+                {
+                    "word": "Klopfen,",
+                    "start": 78.924,
+                    "end": 79.404,
+                    "score": 0.669
+                },
+                {
+                    "word": "Husten",
+                    "start": 79.424,
+                    "end": 79.724,
+                    "score": 0.609
+                },
+                {
+                    "word": "oder",
+                    "start": 79.764,
+                    "end": 79.964,
+                    "score": 0.867
+                },
+                {
+                    "word": "Pressen",
+                    "start": 80.004,
+                    "end": 80.744,
+                    "score": 0.916
+                },
+                {
+                    "word": "kann",
+                    "start": 80.764,
+                    "end": 81.024,
+                    "score": 0.809
+                },
+                {
+                    "word": "hier",
+                    "start": 81.044,
+                    "end": 81.505,
+                    "score": 0.909
+                },
+                {
+                    "word": "keine",
+                    "start": 81.545,
+                    "end": 83.385,
+                    "score": 0.99
+                },
+                {
+                    "word": "Schmerzprovokation",
+                    "start": 83.425,
+                    "end": 85.946,
+                    "score": 0.786
+                },
+                {
+                    "word": "erzielt",
+                    "start": 85.986,
+                    "end": 86.406,
+                    "score": 0.937
+                },
+                {
+                    "word": "werden.",
+                    "start": 86.446,
+                    "end": 86.766,
+                    "score": 0.952
+                }
+            ]
+        },
+        {
+            "start": 86.786,
+            "end": 91.387,
+            "text": "Peripheresensomotorisches Defizit wird verneint.",
+            "words": [
+                {
+                    "word": "Peripheresensomotorisches",
+                    "start": 86.786,
+                    "end": 88.967,
+                    "score": 0.63
+                },
+                {
+                    "word": "Defizit",
+                    "start": 89.007,
+                    "end": 89.507,
+                    "score": 0.933
+                },
+                {
+                    "word": "wird",
+                    "start": 89.527,
+                    "end": 89.707,
+                    "score": 0.64
+                },
+                {
+                    "word": "verneint.",
+                    "start": 89.727,
+                    "end": 91.387,
+                    "score": 0.823
+                }
+            ]
+        },
+        {
+            "start": 91.447,
+            "end": 93.308,
+            "text": "In der Röntgenuntersuchung",
+            "words": [
+                {
+                    "word": "In",
+                    "start": 91.447,
+                    "end": 91.768,
+                    "score": 0.924
+                },
+                {
+                    "word": "der",
+                    "start": 91.808,
+                    "end": 92.288,
+                    "score": 0.858
+                },
+                {
+                    "word": "Röntgenuntersuchung",
+                    "start": 92.348,
+                    "end": 93.308,
+                    "score": 0.676
+                }
+            ]
+        },
+        {
+            "start": 94.958,
+            "end": 103.9,
+            "text": " Vom 23.12.2025 zeigte sich bereits eine Fraktur des BBK 12.",
+            "words": [
+                {
+                    "word": "Vom",
+                    "start": 94.958,
+                    "end": 96.318,
+                    "score": 0.806
+                },
+                {
+                    "word": "23.12.2025"
+                },
+                {
+                    "word": "zeigte",
+                    "start": 98.119,
+                    "end": 98.399,
+                    "score": 0.807
+                },
+                {
+                    "word": "sich",
+                    "start": 98.419,
+                    "end": 98.599,
+                    "score": 0.888
+                },
+                {
+                    "word": "bereits",
+                    "start": 98.639,
+                    "end": 99.139,
+                    "score": 0.974
+                },
+                {
+                    "word": "eine",
+                    "start": 99.179,
+                    "end": 100.699,
+                    "score": 0.923
+                },
+                {
+                    "word": "Fraktur",
+                    "start": 100.759,
+                    "end": 101.28,
+                    "score": 0.881
+                },
+                {
+                    "word": "des",
+                    "start": 101.32,
+                    "end": 101.48,
+                    "score": 0.863
+                },
+                {
+                    "word": "BBK",
+                    "start": 101.62,
+                    "end": 103.9,
+                    "score": 0.831
+                },
+                {
+                    "word": "12."
+                }
+            ]
+        },
+        {
+            "start": 103.96,
+            "end": 115.843,
+            "text": "In der Verlaufsuntersuchung vom 29.12.2025 zeigt sich diese nun providierend mit zunehmender Sinterung ohne deutliche kyphotische Fehlstellung.",
+            "words": [
+                {
+                    "word": "In",
+                    "start": 103.96,
+                    "end": 104.06,
+                    "score": 0.817
+                },
+                {
+                    "word": "der",
+                    "start": 104.08,
+                    "end": 104.22,
+                    "score": 0.953
+                },
+                {
+                    "word": "Verlaufsuntersuchung",
+                    "start": 104.26,
+                    "end": 105.04,
+                    "score": 0.688
+                },
+                {
+                    "word": "vom",
+                    "start": 105.08,
+                    "end": 105.261,
+                    "score": 0.939
+                },
+                {
+                    "word": "29.12.2025"
+                },
+                {
+                    "word": "zeigt",
+                    "start": 105.741,
+                    "end": 106.661,
+                    "score": 0.751
+                },
+                {
+                    "word": "sich",
+                    "start": 106.701,
+                    "end": 106.801,
+                    "score": 0.883
+                },
+                {
+                    "word": "diese",
+                    "start": 106.841,
+                    "end": 107.041,
+                    "score": 0.862
+                },
+                {
+                    "word": "nun",
+                    "start": 107.081,
+                    "end": 107.461,
+                    "score": 0.655
+                },
+                {
+                    "word": "providierend",
+                    "start": 107.481,
+                    "end": 108.781,
+                    "score": 0.728
+                },
+                {
+                    "word": "mit",
+                    "start": 108.821,
+                    "end": 109.742,
+                    "score": 0.968
+                },
+                {
+                    "word": "zunehmender",
+                    "start": 109.782,
+                    "end": 110.262,
+                    "score": 0.631
+                },
+                {
+                    "word": "Sinterung",
+                    "start": 110.322,
+                    "end": 111.922,
+                    "score": 0.966
+                },
+                {
+                    "word": "ohne",
+                    "start": 111.982,
+                    "end": 112.642,
+                    "score": 0.874
+                },
+                {
+                    "word": "deutliche",
+                    "start": 112.682,
+                    "end": 113.082,
+                    "score": 0.813
+                },
+                {
+                    "word": "kyphotische",
+                    "start": 113.142,
+                    "end": 113.963,
+                    "score": 0.816
+                },
+                {
+                    "word": "Fehlstellung.",
+                    "start": 114.023,
+                    "end": 115.843,
+                    "score": 0.808
+                }
+            ]
+        },
+        {
+            "start": 115.863,
+            "end": 118.264,
+            "text": "Die Ganzkörper-MRT-Untersuchung vom 5.12.2025 zeigt eine",
+            "words": [
+                {
+                    "word": "Die",
+                    "start": 115.863,
+                    "end": 116.043,
+                    "score": 0.84
+                },
+                {
+                    "word": "Ganzkörper-MRT-Untersuchung",
+                    "start": 116.083,
+                    "end": 117.443,
+                    "score": 0.559
+                },
+                {
+                    "word": "vom",
+                    "start": 117.483,
+                    "end": 117.683,
+                    "score": 0.943
+                },
+                {
+                    "word": "5.12.2025"
+                },
+                {
+                    "word": "zeigt",
+                    "start": 117.743,
+                    "end": 118.064,
+                    "score": 0.525
+                },
+                {
+                    "word": "eine",
+                    "start": 118.124,
+                    "end": 118.264,
+                    "score": 0.23
+                }
+            ]
+        },
+        {
+            "start": 120.638,
+            "end": 132.805,
+            "text": " Tumorinfiltrationen des BWK12 und des LBK1 mit multiplen weiteren, jedoch deutlich kleineren Metastasensubspektrum-Läsionen der Wirbelkörper im Bereich der LBS und BBS.",
+            "words": [
+                {
+                    "word": "Tumorinfiltrationen",
+                    "start": 120.638,
+                    "end": 121.879,
+                    "score": 0.721
+                },
+                {
+                    "word": "des",
+                    "start": 121.919,
+                    "end": 122.059,
+                    "score": 0.856
+                },
+                {
+                    "word": "BWK12",
+                    "start": 122.099,
+                    "end": 122.879,
+                    "score": 0.637
+                },
+                {
+                    "word": "und",
+                    "start": 122.919,
+                    "end": 123.2,
+                    "score": 0.964
+                },
+                {
+                    "word": "des",
+                    "start": 123.22,
+                    "end": 123.4,
+                    "score": 0.9
+                },
+                {
+                    "word": "LBK1",
+                    "start": 123.48,
+                    "end": 124.1,
+                    "score": 0.779
+                },
+                {
+                    "word": "mit",
+                    "start": 124.12,
+                    "end": 124.64,
+                    "score": 0.91
+                },
+                {
+                    "word": "multiplen",
+                    "start": 124.66,
+                    "end": 125.241,
+                    "score": 0.612
+                },
+                {
+                    "word": "weiteren,",
+                    "start": 125.261,
+                    "end": 126.161,
+                    "score": 0.947
+                },
+                {
+                    "word": "jedoch",
+                    "start": 126.201,
+                    "end": 126.481,
+                    "score": 0.892
+                },
+                {
+                    "word": "deutlich",
+                    "start": 126.521,
+                    "end": 126.862,
+                    "score": 0.894
+                },
+                {
+                    "word": "kleineren",
+                    "start": 126.902,
+                    "end": 127.342,
+                    "score": 0.771
+                },
+                {
+                    "word": "Metastasensubspektrum-Läsionen",
+                    "start": 127.362,
+                    "end": 129.483,
+                    "score": 0.698
+                },
+                {
+                    "word": "der",
+                    "start": 129.523,
+                    "end": 129.723,
+                    "score": 0.95
+                },
+                {
+                    "word": "Wirbelkörper",
+                    "start": 129.763,
+                    "end": 130.404,
+                    "score": 0.776
+                },
+                {
+                    "word": "im",
+                    "start": 130.444,
+                    "end": 130.504,
+                    "score": 0.215
+                },
+                {
+                    "word": "Bereich",
+                    "start": 130.524,
+                    "end": 130.824,
+                    "score": 0.823
+                },
+                {
+                    "word": "der",
+                    "start": 130.844,
+                    "end": 130.984,
+                    "score": 0.782
+                },
+                {
+                    "word": "LBS",
+                    "start": 131.084,
+                    "end": 131.384,
+                    "score": 0.827
+                },
+                {
+                    "word": "und",
+                    "start": 131.424,
+                    "end": 131.524,
+                    "score": 0.405
+                },
+                {
+                    "word": "BBS.",
+                    "start": 131.564,
+                    "end": 132.805,
+                    "score": 0.744
+                }
+            ]
+        },
+        {
+            "start": 132.845,
+            "end": 143.831,
+            "text": "Die Schmerztherapie erfolgt aktuell mit Buprenorphin, 10 Mikrogramm, unter der der Patient in der Mobilität nicht ausgeprägt eingeschränkt ist.",
+            "words": [
+                {
+                    "word": "Die",
+                    "start": 132.845,
+                    "end": 133.505,
+                    "score": 0.98
+                },
+                {
+                    "word": "Schmerztherapie",
+                    "start": 133.545,
+                    "end": 134.306,
+                    "score": 0.652
+                },
+                {
+                    "word": "erfolgt",
+                    "start": 134.366,
+                    "end": 134.746,
+                    "score": 0.585
+                },
+                {
+                    "word": "aktuell",
+                    "start": 134.806,
+                    "end": 135.547,
+                    "score": 0.911
+                },
+                {
+                    "word": "mit",
+                    "start": 135.567,
+                    "end": 135.847,
+                    "score": 0.922
+                },
+                {
+                    "word": "Buprenorphin,",
+                    "start": 136.047,
+                    "end": 137.548,
+                    "score": 0.63
+                },
+                {
+                    "word": "10"
+                },
+                {
+                    "word": "Mikrogramm,",
+                    "start": 137.928,
+                    "end": 139.008,
+                    "score": 0.617
+                },
+                {
+                    "word": "unter",
+                    "start": 139.049,
+                    "end": 139.389,
+                    "score": 0.857
+                },
+                {
+                    "word": "der",
+                    "start": 139.409,
+                    "end": 139.989,
+                    "score": 0.962
+                },
+                {
+                    "word": "der",
+                    "start": 140.029,
+                    "end": 140.189,
+                    "score": 0.651
+                },
+                {
+                    "word": "Patient",
+                    "start": 140.229,
+                    "end": 140.709,
+                    "score": 0.916
+                },
+                {
+                    "word": "in",
+                    "start": 140.749,
+                    "end": 140.81,
+                    "score": 0.983
+                },
+                {
+                    "word": "der",
+                    "start": 140.85,
+                    "end": 140.95,
+                    "score": 0.841
+                },
+                {
+                    "word": "Mobilität",
+                    "start": 140.99,
+                    "end": 141.87,
+                    "score": 0.671
+                },
+                {
+                    "word": "nicht",
+                    "start": 141.91,
+                    "end": 142.13,
+                    "score": 0.901
+                },
+                {
+                    "word": "ausgeprägt",
+                    "start": 142.17,
+                    "end": 142.711,
+                    "score": 0.759
+                },
+                {
+                    "word": "eingeschränkt",
+                    "start": 142.751,
+                    "end": 143.391,
+                    "score": 0.833
+                },
+                {
+                    "word": "ist.",
+                    "start": 143.451,
+                    "end": 143.831,
+                    "score": 0.821
+                }
+            ]
+        },
+        {
+            "start": 143.851,
+            "end": 144.752,
+            "text": "Punkt.",
+            "words": [
+                {
+                    "word": "Punkt.",
+                    "start": 143.851,
+                    "end": 144.752,
+                    "score": 0.932
+                }
+            ]
+        },
+        {
+            "start": 144.772,
+            "end": 150.055,
+            "text": "Zur abschließenden Bewertung ist eine CT-",
+            "words": [
+                {
+                    "word": "Zur",
+                    "start": 144.772,
+                    "end": 144.912,
+                    "score": 0.618
+                },
+                {
+                    "word": "abschließenden",
+                    "start": 144.952,
+                    "end": 146.413,
+                    "score": 0.924
+                },
+                {
+                    "word": "Bewertung",
+                    "start": 146.453,
+                    "end": 148.414,
+                    "score": 0.929
+                },
+                {
+                    "word": "ist",
+                    "start": 148.474,
+                    "end": 149.094,
+                    "score": 0.984
+                },
+                {
+                    "word": "eine",
+                    "start": 149.154,
+                    "end": 149.655,
+                    "score": 0.874
+                },
+                {
+                    "word": "CT-",
+                    "start": 149.735,
+                    "end": 150.055,
+                    "score": 0.859
+                }
+            ]
+        },
+        {
+            "start": 150.961,
+            "end": 153.542,
+            "text": " Das Torkolon-Weinübergang ist notwendig, Punkt.",
+            "words": [
+                {
+                    "word": "Das",
+                    "start": 150.961,
+                    "end": 151.481,
+                    "score": 0.29
+                },
+                {
+                    "word": "Torkolon-Weinübergang",
+                    "start": 151.501,
+                    "end": 152.282,
+                    "score": 0.344
+                },
+                {
+                    "word": "ist",
+                    "start": 152.322,
+                    "end": 152.622,
+                    "score": 0.757
+                },
+                {
+                    "word": "notwendig,",
+                    "start": 152.662,
+                    "end": 153.142,
+                    "score": 0.911
+                },
+                {
+                    "word": "Punkt.",
+                    "start": 153.182,
+                    "end": 153.542,
+                    "score": 0.846
+                }
+            ]
+        },
+        {
+            "start": 153.562,
+            "end": 154.803,
+            "text": "Diese ist bereits für den 5.",
+            "words": [
+                {
+                    "word": "Diese",
+                    "start": 153.562,
+                    "end": 153.762,
+                    "score": 0.673
+                },
+                {
+                    "word": "ist",
+                    "start": 153.802,
+                    "end": 153.922,
+                    "score": 0.671
+                },
+                {
+                    "word": "bereits",
+                    "start": 153.962,
+                    "end": 154.282,
+                    "score": 0.821
+                },
+                {
+                    "word": "für",
+                    "start": 154.323,
+                    "end": 154.443,
+                    "score": 0.889
+                },
+                {
+                    "word": "den",
+                    "start": 154.483,
+                    "end": 154.803,
+                    "score": 0.949
+                },
+                {
+                    "word": "5."
+                }
+            ]
+        },
+        {
+            "start": 155.223,
+            "end": 157.484,
+            "text": "Januar geplant, Punkt.",
+            "words": [
+                {
+                    "word": "Januar",
+                    "start": 155.223,
+                    "end": 155.603,
+                    "score": 0.546
+                },
+                {
+                    "word": "geplant,",
+                    "start": 155.643,
+                    "end": 156.664,
+                    "score": 0.794
+                },
+                {
+                    "word": "Punkt.",
+                    "start": 156.704,
+                    "end": 157.484,
+                    "score": 0.79
+                }
+            ]
+        },
+        {
+            "start": 157.524,
+            "end": 164.387,
+            "text": "Ich bitte daher um die kurzfristige telefonische Rücksprache nach erfolgter CT zur Planung der weiteren Behandlung, Punkt.",
+            "words": [
+                {
+                    "word": "Ich",
+                    "start": 157.524,
+                    "end": 157.624,
+                    "score": 0.831
+                },
+                {
+                    "word": "bitte",
+                    "start": 157.664,
+                    "end": 157.884,
+                    "score": 0.91
+                },
+                {
+                    "word": "daher",
+                    "start": 157.904,
+                    "end": 158.144,
+                    "score": 0.885
+                },
+                {
+                    "word": "um",
+                    "start": 158.204,
+                    "end": 158.304,
+                    "score": 0.815
+                },
+                {
+                    "word": "die",
+                    "start": 158.344,
+                    "end": 158.524,
+                    "score": 0.925
+                },
+                {
+                    "word": "kurzfristige",
+                    "start": 158.564,
+                    "end": 159.105,
+                    "score": 0.585
+                },
+                {
+                    "word": "telefonische",
+                    "start": 159.245,
+                    "end": 159.905,
+                    "score": 0.465
+                },
+                {
+                    "word": "Rücksprache",
+                    "start": 159.925,
+                    "end": 160.505,
+                    "score": 0.719
+                },
+                {
+                    "word": "nach",
+                    "start": 160.525,
+                    "end": 160.665,
+                    "score": 0.985
+                },
+                {
+                    "word": "erfolgter",
+                    "start": 160.705,
+                    "end": 161.206,
+                    "score": 0.819
+                },
+                {
+                    "word": "CT",
+                    "start": 161.246,
+                    "end": 162.126,
+                    "score": 0.97
+                },
+                {
+                    "word": "zur",
+                    "start": 162.166,
+                    "end": 162.266,
+                    "score": 0.882
+                },
+                {
+                    "word": "Planung",
+                    "start": 162.306,
+                    "end": 162.626,
+                    "score": 0.722
+                },
+                {
+                    "word": "der",
+                    "start": 162.666,
+                    "end": 162.766,
+                    "score": 0.705
+                },
+                {
+                    "word": "weiteren",
+                    "start": 162.786,
+                    "end": 163.066,
+                    "score": 0.669
+                },
+                {
+                    "word": "Behandlung,",
+                    "start": 163.086,
+                    "end": 163.607,
+                    "score": 0.635
+                },
+                {
+                    "word": "Punkt.",
+                    "start": 163.647,
+                    "end": 164.387,
+                    "score": 0.909
+                }
+            ]
+        },
+        {
+            "start": 164.427,
+            "end": 179.714,
+            "text": "Da aktuell über der Fraktur keine ausgeprägten Schmerzen bestehen und diese auch nicht provoziert werden können, empfehle ich zum aktuellen Zeitpunkt das konservative Vorgehen mit regelmäßigen Röntgenverlaufskontrollen, Klammer auf, alle 14 Tage, Klammer zu, Punkt.",
+            "words": [
+                {
+                    "word": "Da",
+                    "start": 164.427,
+                    "end": 164.807,
+                    "score": 0.936
+                },
+                {
+                    "word": "aktuell",
+                    "start": 164.847,
+                    "end": 165.788,
+                    "score": 0.846
+                },
+                {
+                    "word": "über",
+                    "start": 165.848,
+                    "end": 166.048,
+                    "score": 0.973
+                },
+                {
+                    "word": "der",
+                    "start": 166.088,
+                    "end": 166.268,
+                    "score": 0.822
+                },
+                {
+                    "word": "Fraktur",
+                    "start": 166.308,
+                    "end": 167.308,
+                    "score": 0.847
+                },
+                {
+                    "word": "keine",
+                    "start": 167.348,
+                    "end": 167.588,
+                    "score": 0.831
+                },
+                {
+                    "word": "ausgeprägten",
+                    "start": 167.629,
+                    "end": 168.189,
+                    "score": 0.795
+                },
+                {
+                    "word": "Schmerzen",
+                    "start": 168.229,
+                    "end": 168.769,
+                    "score": 0.808
+                },
+                {
+                    "word": "bestehen",
+                    "start": 168.809,
+                    "end": 169.109,
+                    "score": 0.885
+                },
+                {
+                    "word": "und",
+                    "start": 169.149,
+                    "end": 169.249,
+                    "score": 0.889
+                },
+                {
+                    "word": "diese",
+                    "start": 169.289,
+                    "end": 169.449,
+                    "score": 0.524
+                },
+                {
+                    "word": "auch",
+                    "start": 169.469,
+                    "end": 169.589,
+                    "score": 0.738
+                },
+                {
+                    "word": "nicht",
+                    "start": 169.609,
+                    "end": 169.769,
+                    "score": 0.705
+                },
+                {
+                    "word": "provoziert",
+                    "start": 169.789,
+                    "end": 170.27,
+                    "score": 0.751
+                },
+                {
+                    "word": "werden",
+                    "start": 170.31,
+                    "end": 170.53,
+                    "score": 0.866
+                },
+                {
+                    "word": "können,",
+                    "start": 170.55,
+                    "end": 171.51,
+                    "score": 0.906
+                },
+                {
+                    "word": "empfehle",
+                    "start": 171.57,
+                    "end": 172.171,
+                    "score": 0.74
+                },
+                {
+                    "word": "ich",
+                    "start": 172.211,
+                    "end": 172.351,
+                    "score": 0.798
+                },
+                {
+                    "word": "zum",
+                    "start": 172.391,
+                    "end": 172.531,
+                    "score": 0.9
+                },
+                {
+                    "word": "aktuellen",
+                    "start": 172.571,
+                    "end": 172.911,
+                    "score": 0.796
+                },
+                {
+                    "word": "Zeitpunkt",
+                    "start": 172.951,
+                    "end": 173.291,
+                    "score": 0.609
+                },
+                {
+                    "word": "das",
+                    "start": 173.331,
+                    "end": 173.471,
+                    "score": 0.629
+                },
+                {
+                    "word": "konservative",
+                    "start": 173.491,
+                    "end": 174.151,
+                    "score": 0.894
+                },
+                {
+                    "word": "Vorgehen",
+                    "start": 174.171,
+                    "end": 174.772,
+                    "score": 0.921
+                },
+                {
+                    "word": "mit",
+                    "start": 174.812,
+                    "end": 175.132,
+                    "score": 0.851
+                },
+                {
+                    "word": "regelmäßigen",
+                    "start": 175.212,
+                    "end": 175.772,
+                    "score": 0.766
+                },
+                {
+                    "word": "Röntgenverlaufskontrollen,",
+                    "start": 175.852,
+                    "end": 177.513,
+                    "score": 0.66
+                },
+                {
+                    "word": "Klammer",
+                    "start": 177.553,
+                    "end": 177.873,
+                    "score": 0.521
+                },
+                {
+                    "word": "auf,",
+                    "start": 177.913,
+                    "end": 178.133,
+                    "score": 0.652
+                },
+                {
+                    "word": "alle",
+                    "start": 178.173,
+                    "end": 178.413,
+                    "score": 0.974
+                },
+                {
+                    "word": "14"
+                },
+                {
+                    "word": "Tage,",
+                    "start": 178.774,
+                    "end": 179.074,
+                    "score": 0.91
+                },
+                {
+                    "word": "Klammer",
+                    "start": 179.114,
+                    "end": 179.394,
+                    "score": 0.795
+                },
+                {
+                    "word": "zu,",
+                    "start": 179.434,
+                    "end": 179.534,
+                    "score": 0.954
+                },
+                {
+                    "word": "Punkt.",
+                    "start": 179.554,
+                    "end": 179.714,
+                    "score": 0.925
+                }
+            ]
+        },
+        {
+            "start": 180.827,
+            "end": 182.293,
+            "text": " mit freundlichen Kollegialen grüßt uns zur Unterschrift.",
+            "words": [
+                {
+                    "word": "mit",
+                    "start": 180.827,
+                    "end": 180.908,
+                    "score": 0.351
+                },
+                {
+                    "word": "freundlichen",
+                    "start": 180.928,
+                    "end": 181.189,
+                    "score": 0.225
+                },
+                {
+                    "word": "Kollegialen",
+                    "start": 181.209,
+                    "end": 181.53,
+                    "score": 0.629
+                },
+                {
+                    "word": "grüßt",
+                    "start": 181.55,
+                    "end": 181.711,
+                    "score": 0.681
+                },
+                {
+                    "word": "uns",
+                    "start": 181.731,
+                    "end": 181.851,
+                    "score": 0.453
+                },
+                {
+                    "word": "zur",
+                    "start": 181.872,
+                    "end": 181.952,
+                    "score": 0.967
+                },
+                {
+                    "word": "Unterschrift.",
+                    "start": 181.972,
+                    "end": 182.293,
+                    "score": 0.556
+                }
+            ]
+        }
+    ]
+}
