@@ -367,6 +367,7 @@ Dieses Projekt basiert auf:
 
 ## **Sprachen / Languages**
 
+Dieses README ist auf Deutsch verfasst. Weitere Sprachversionen:
+
 - [Español](docs/README_ES.md)
 - [Português](docs/README_PT.md)
-- English (see above for German version)
